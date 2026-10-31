@@ -19,7 +19,7 @@
 
 ## 🕵️‍♂️ `whoami`
 
-bash
+```bash
 $ whoami
 > F0RSES (Norman)
 
