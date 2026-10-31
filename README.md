@@ -28,16 +28,18 @@
 </p>
 
 ---
-
-### 📊 Моя статистика на GitHub:
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true&locale=ru" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true&locale=ru" alt="Top Langs" height="180" />
-</div>
+## 📊 Моя статистика на GitHub
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true&locale=ru" alt="GitHub Streak" />
+
+  <!-- Исправленный виджет серии (сброс кэша добавлен) -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=F0RSES&theme=radical&cache_seconds=1" alt="GitHub Streak" />
+
+  <br><br>
+
+  <!-- Стандартный, более стабильный виджет статистики (на случай, если верхний всё ещё глючит) -->
+  <img src="https://github-readme-stats.vercel.app/api?username=F0RSES&show_icons=true&theme=radical&cache_seconds=1" alt="GitHub Stats" />
+
 </div>
 
 ---
