@@ -1,56 +1,57 @@
 <div align="center">
+
+  <h1>Welcome, <code>F0RSES</code></h1>
   
-  # Welcome, I'm F0RSES
-  
-  ### 🚀 Developer
-
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Welcome,+I'm+Norman!;%F0%9F%9A%80+Developer;Always+learning+new+things)](https://git.io/typing-svg)
-
-</div>
-
----
-
-### 👨‍💻 Обо мне:
-- 🔭 Нечего сказать, просто посмотри мои проекты ниже!
-
----
-
-### 🛠️ Мой стек технологий:
-
-<p align="left">
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-</p>
-
----
-## 📊 Моя статистика на GitHub
-
-<div align="center">
-
-  <!-- Исправленный виджет серии (сброс кэша добавлен) -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=F0RSES&theme=radical&cache_seconds=1" alt="GitHub Streak" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=C084FC&center=true&vCenter=true&width=600&lines=%3E+Initializing+environment...;%3E+sudo+apt+install+skills;%3E+Access+Granted.;Welcome+to+the+mainframe" alt="System.out.println('Access Granted. Welcome to the mainframe.');" />
 
   <br><br>
 
-  <!-- Стандартный, более стабильный виджет статистики (на случай, если верхний всё ещё глючит) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=F0RSES&show_icons=true&theme=radical&cache_seconds=1" alt="GitHub Stats" />
+  <a href="https://t.me/ТВОЙ_ТЕЛЕГРАМ">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Ping me on Telegram: Encrypted channel established." />
+  </a>
+  <a href="https://reddit.com/user/ТВОЙ_РЕДДИТ">
+    <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit: Accessing the subreddit..." />
+  </a>
 
 </div>
 
----
+<br>
 
-### 📫 Как со мной связаться:
+## 🕵️‍♂️ `whoami`
 
-<p align="left">
-  <a href="https://t.me/ВАШ_НИКНЕЙМ_В_ТЕЛЕГРАМ" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
-  </a>
-  <a href="https://reddit.com/user/ВАШ_НИКНЕЙМ_НА_REDDIT" target="_blank">
-    <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit" />
-  </a>
-</p>
+```bash
+$ whoami
+> F0RSES (Norman)
+
+$ cat profile.json
+> {
+>   "role": "Developer",
+>   "focus": ["C++", "Qt6", "Cybersecurity"],
+>   "status": "Bypassing DPI restrictions",
+>   "current_project": "Muffin"
+> }
+
+<details> <summary><b>🚀 <code>git log --oneline</code> (Нажми, чтобы развернуть)</b></summary> <br>
+
+    🧁 Разработка Muffin — кроссплатформенного GUI для обхода блокировок (zapret + Cloudflare WARP).
+
+    🛡️ Изучение методов обхода DPI и сетевой безопасности.
+
+    💻 Написание чистого C++ кода и проектирование UI/UX.
+
+    🐧 Глубокая настройка Linux (Kali) и автоматизация.
+
+</details>
+🛠️ cat stack.txt
+<div align="center"> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="Compiling C++ modules... 0 errors, 0 warnings." /> <img src="https://img.shields.io/badge/Qt-41CD52?style=flat-square&logo=qt&logoColor=white" alt="Building GUI layout... QPainter initialized." /> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Automating the boring stuff with Python. Importing libraries..." /> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="Type checking... 'any' is not allowed here." /> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Initializing root shell... Access granted. (I use Arch/Kali btw)" /> <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" alt="chmod +x script.sh && ./script.sh" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="It works on my machine. Ship it." /> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="git commit -m 'fix: final release' && git push --force" /> </div>
+📊 system_monitor --stats
+<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=F0RSES&theme=radical&cache_seconds=1&hide_border=true&background=0D1117" alt="Parsing commit history... Longest streak detected." />
+
+
+
+<img src="https://github-readme-stats.vercel.app/api?username=F0RSES&show_icons=true&theme=radical&hide_border=true&background=0D1117&include_all_commits=true&count_private=true" alt="Fetching global repository statistics... Data compiled successfully." />
+
+
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=F0RSES&layout=compact&theme=radical&hide_border=true&background=0D1117" alt="Analyzing language distribution... C++ dominates." /></div>
+<!-- ВНИМАНИЕ: Змейка ниже заработает только если ты настроишь GitHub Action (см. инструкцию ниже). Пока можешь оставить это закомментированным. <div align="center"> <img src="https://raw.githubusercontent.com/F0RSES/F0RSES/output/github-contribution-grid-snake-dark.svg" alt="Packet sniffer active... Nom nom nom, eating all the commits." /> </div> --><div align="center"> <img src="https://komarev.com/ghpvc/?username=F0RSES&color=C084FC&style=flat-square&label=Nodes+Connected" alt="Tracking IP addresses... Just kidding. Profile views." /> </div> ```
