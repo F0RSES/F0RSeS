@@ -1,5 +1,7 @@
- <div align="center">
-  <h1><br>Welcome to my page!</br></h1>
+<div align="center">
+  <br>
+  <h1>Welcome to my page!</h1>
+  
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=C084FC&center=true&vCenter=true&width=700&lines=%3E+Initializing+environment...;%3E+sudo+apt+install+skills;%3E+Access+Granted.;%3E+Welcome+to+the+mainframe" alt="Welcome to the mainframe" />
 
   <br>
@@ -81,11 +83,11 @@ norman
 
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=F0RSES&theme=radical" alt="GitHub statistics" width="49%" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=F0RSES&theme=radical" alt="Most used programming languages" width="49%" />
-<br/>
+  
+  <br><br>
 
-<div align="center">
-  <img src="./github-metrics.svg" alt="GitHub Metrics" />
-</div>
+  <img src="./github-metrics.svg" alt="GitHub Metrics" width="100%" />
+
 </div>
 
 ---
