@@ -1,6 +1,6 @@
  <div align="center">
 
-  <h1>Welcome, <code>F0RSES</code></h1>
+  <h4>Welcome to my page!</h4>
 
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=C084FC&center=true&vCenter=true&width=700&lines=%3E+Initializing+environment...;%3E+sudo+apt+install+skills;%3E+Access+Granted.;%3E+Welcome+to+the+mainframe" alt="Welcome to the mainframe" />
 
