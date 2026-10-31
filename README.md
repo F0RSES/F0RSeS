@@ -4,6 +4,8 @@
   
   ### 🚀 Developer
 
+  [![Typing SVG](https://demolab.com!)](https://github.com)
+
 </div>
 
 ---
@@ -14,12 +16,39 @@
 ---
 
 ### 🛠️ Мой стек технологий:
-- **Languages:** `C++` | `Python` | `TypeScript`
-- **Web:** `HTML5` / `CSS3`
-- **Tools:** `Git` | `Docker`
+
+<p align="left">
+  <img src="https://shields.io" alt="C++" />
+  <img src="https://shields.io" alt="Python" />
+  <img src="https://shields.io" alt="TypeScript" />
+  <img src="https://shields.io" alt="HTML5" />
+  <img src="https://shields.io" alt="CSS3" />
+  <img src="https://shields.io" alt="Docker" />
+  <img src="https://shields.io" alt="Git" />
+</p>
+
+---
+
+### 📊 Моя статистика на GitHub:
+
+<div align="center">
+  <img src="https://vercel.app" alt="GitHub Stats" height="180" />
+  <img src="https://vercel.app" alt="Top Langs" height="180" />
+</div>
+
+<div align="center">
+  <img src="https://herokuapp.com" alt="GitHub Streak" />
+</div>
 
 ---
 
 ### 📫 Как со мной связаться:
-- **Telegram:** [@F0RSES](https://t.me)
-- **Reddit:** [Upstairs-Hold7166](https://reddit.com)
+
+<p align="left">
+  <a href="https://t.me" target="_blank">
+    <img src="https://shields.io" alt="Telegram" />
+  </a>
+  <a href="https://reddit.com" target="_blank">
+    <img src="https://shields.io" alt="Reddit" />
+  </a>
+</p>
