@@ -16,7 +16,6 @@ jobs:
           # --- Базовые настройки ---
           base: "header, activity, community"
           config_timezone: Europe/Moscow
-          config_theme: dark
           
           # --- Плагин календаря активности ---
           plugin_isocalendar: yes
@@ -27,3 +26,19 @@ jobs:
           plugin_languages_categories: programming
           plugin_languages_details: percentage
           plugin_languages_limit: 8
+
+          # --- Кастомные стили для тёмной темы ---
+          extras_css: |
+            body {
+              background-color: #0D1117 !important;
+              color: #c9d1d9 !important;
+            }
+            h1, h2, h3, h4, h5, h6, .header, .field {
+              color: #c9d1d9 !important;
+            }
+            a {
+              color: #C084FC !important;
+            }
+            .track {
+              background-color: #21262d !important;
+            }
