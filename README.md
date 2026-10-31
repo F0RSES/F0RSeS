@@ -24,13 +24,21 @@
 ## 🕵️‍♂️ `whoami`
 
 ```bash
-$ whoami
-> F0RSES (Norman)
+┌──(F0RSES㉿kali)-[~]
+└─$ whoami
+norman
 
-$ cat profile.json
+┌──(F0RSES㉿kali)-[~]
+└─$ cat profile.json
 {
+  "name": "F0RSES",
+  "alias": "Norman",
   "role": "Developer",
-  "focus": ["C++", "Qt6", "Cybersecurity"],
+  "focus": [
+    "C++",
+    "Qt6",
+    "Cybersecurity"
+  ],
   "status": "Building Muffin",
   "current_project": "Muffin"
 }
@@ -42,12 +50,11 @@ $ cat profile.json
   <br>
 
   - 🧁 Developing **Muffin** — a cross-platform GUI for zapret with Cloudflare WARP integration.
-  - 🛡️ Exploring DPI bypass techniques and network security.
+  - 🛡️ Exploring network security and DPI behavior.
   - 💻 Writing clean C++ code and designing modern UI/UX.
   - 🐧 Customizing Linux and automating workflows.
 
 </details>
-
 ---
 
 ## 🛠️ `cat stack.txt`
