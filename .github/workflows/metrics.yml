@@ -1,9 +1,7 @@
 name: Metrics
 on:
-  # Запускать раз в день по расписанию и вручную
   schedule: [{cron: "0 0 * * *"}]
   workflow_dispatch:
-  # Также запускать при каждом пуше в основную ветку
   push: {branches: ["master", "main"]}
 jobs:
   github-metrics:
@@ -18,7 +16,7 @@ jobs:
           # --- Базовые настройки ---
           base: "header, activity, community"
           config_timezone: Europe/Moscow
-          config_theme: dark # <--- Темная тема для единого стиля
+          config_theme: dark
           
           # --- Плагин календаря активности ---
           plugin_isocalendar: yes
