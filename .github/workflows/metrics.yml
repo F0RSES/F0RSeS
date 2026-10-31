@@ -16,17 +16,12 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           
           # --- Базовые настройки ---
-          base: "header, activity, community" # Какие разделы показывать
-          config_timezone: Europe/Moscow # Ваш часовой пояс
+          base: "header, activity, community"
+          config_timezone: Europe/Moscow
+          config_theme: dark # <--- Темная тема для единого стиля
           
-          # --- Плагин календаря активности (как на скриншоте) ---
+          # --- Плагин календаря активности ---
           plugin_isocalendar: yes
-          
-          # --- Плагин привычек и активности (для графика "Activity overview") ---
-          # plugin_habits: yes
-          # plugin_habits_from: 200 # Анализировать последние 200 событий
-          # plugin_habits_days: 14 # Показывать данные за последние 14 дней
-          # plugin_habits_charts: yes # Включить диаграммы
           
           # --- Плагин языков программирования ---
           plugin_languages: yes
@@ -34,6 +29,3 @@ jobs:
           plugin_languages_categories: programming
           plugin_languages_details: percentage
           plugin_languages_limit: 8
-          
-          # --- Плагин для отображения достижений ---
-          # plugin_achievements: yes
