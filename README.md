@@ -30,7 +30,6 @@ $ cat profile.json
 >   "status": "Bypassing DPI restrictions",
 >   "current_project": "Muffin"
 > }
-
 <details> <summary><b>🚀 <code>git log --oneline</code> (Нажми, чтобы развернуть)</b></summary> <br>
 
     🧁 Разработка Muffin — кроссплатформенного GUI для обхода блокировок (zapret + Cloudflare WARP).
@@ -54,4 +53,4 @@ $ cat profile.json
 
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=F0RSES&layout=compact&theme=radical&hide_border=true&background=0D1117" alt="Analyzing language distribution... C++ dominates." /></div>
-<!-- ВНИМАНИЕ: Змейка ниже заработает только если ты настроишь GitHub Action (см. инструкцию ниже). Пока можешь оставить это закомментированным. <div align="center"> <img src="https://raw.githubusercontent.com/F0RSES/F0RSES/output/github-contribution-grid-snake-dark.svg" alt="Packet sniffer active... Nom nom nom, eating all the commits." /> </div> --><div align="center"> <img src="https://komarev.com/ghpvc/?username=F0RSES&color=C084FC&style=flat-square&label=Nodes+Connected" alt="Tracking IP addresses... Just kidding. Profile views." /> </div> ```
+<div align="center"> <img src="https://komarev.com/ghpvc/?username=F0RSES&color=C084FC&style=flat-square&label=Nodes+Connected" alt="Tracking IP addresses... Just kidding. Profile views." /> </div> ```
