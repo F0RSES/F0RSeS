@@ -55,7 +55,6 @@ norman
   - 🐧 Customizing Linux and automating workflows.
 
 </details>
----
 
 ## 🛠️ `cat stack.txt`
 
