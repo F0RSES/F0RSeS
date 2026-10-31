@@ -63,15 +63,23 @@ $ cat profile.json
 
 <div align="center">
   
-  <!-- Стабильный виджет серии -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=F0RSES&theme=radical&cache_seconds=1&hide_border=true&background=0D1117" alt="Parsing commit history... Longest streak detected." />
   
   <br><br>
   
-  <!-- Стабильные виджеты от github-profile-summary-cards (не падают, в отличие от vercel) -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=F0RSES&theme=radical" alt="Fetching global repository statistics... Data compiled successfully." width="48%" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=F0RSES&theme=radical" alt="Analyzing language distribution... C++ dominates." width="48%" />
 
+</div>
+
+<br>
+
+## 🧁 Featured Project
+
+<div align="center">
+  <a href="https://github.com/F0RSES/zapret-muffin-gui">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=F0RSES&repo=zapret-muffin-gui&theme=radical&hide_border=true&background=0D1117" alt="Opening repository: Muffin GUI. Loading..." />
+  </a>
 </div>
 
 <br>
