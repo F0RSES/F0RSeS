@@ -63,15 +63,14 @@ $ cat profile.json
 
 <div align="center">
   
+  <!-- Стабильный виджет серии -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=F0RSES&theme=radical&cache_seconds=1&hide_border=true&background=0D1117" alt="Parsing commit history... Longest streak detected." />
   
   <br><br>
   
-  <img src="https://github-readme-stats.vercel.app/api?username=F0RSES&show_icons=true&theme=radical&hide_border=true&background=0D1117&include_all_commits=true&count_private=true" alt="Fetching global repository statistics... Data compiled successfully." />
-  
-  <br><br>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=F0RSES&layout=compact&theme=radical&hide_border=true&background=0D1117" alt="Analyzing language distribution... C++ dominates." />
+  <!-- Стабильные виджеты от github-profile-summary-cards (не падают, в отличие от vercel) -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=F0RSES&theme=radical" alt="Fetching global repository statistics... Data compiled successfully." width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=F0RSES&theme=radical" alt="Analyzing language distribution... C++ dominates." width="48%" />
 
 </div>
 
