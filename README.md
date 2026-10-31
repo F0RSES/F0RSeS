@@ -6,7 +6,7 @@
 
   <br><br>
 
-  <a href="https://t.me/ТВОЙ_ТЕЛЕГРАМ">
+  <a href="https://t.me/@F0RSES">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Ping me on Telegram: Encrypted channel established." />
   </a>
   <a href="https://reddit.com/user/ТВОЙ_РЕДДИТ">
