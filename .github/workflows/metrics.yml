@@ -14,4 +14,26 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
-          # ... здесь будут ваши плагины и опции
+          
+          # --- Базовые настройки ---
+          base: "header, activity, community" # Какие разделы показывать
+          config_timezone: Europe/Moscow # Ваш часовой пояс
+          
+          # --- Плагин календаря активности (как на скриншоте) ---
+          plugin_isocalendar: yes
+          
+          # --- Плагин привычек и активности (для графика "Activity overview") ---
+          plugin_habits: yes
+          plugin_habits_from: 200 # Анализировать последние 200 событий
+          plugin_habits_days: 14 # Показывать данные за последние 14 дней
+          plugin_habits_charts: yes # Включить диаграммы
+          
+          # --- Плагин языков программирования ---
+          plugin_languages: yes
+          plugin_languages_analysis_timeout: 15
+          plugin_languages_categories: programming
+          plugin_languages_details: percentage
+          plugin_languages_limit: 8
+          
+          # --- Плагин для отображения достижений ---
+          plugin_achievements: yes
