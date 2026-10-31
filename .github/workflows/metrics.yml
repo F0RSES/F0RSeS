@@ -23,10 +23,10 @@ jobs:
           plugin_isocalendar: yes
           
           # --- Плагин привычек и активности (для графика "Activity overview") ---
-          plugin_habits: yes
-          plugin_habits_from: 200 # Анализировать последние 200 событий
-          plugin_habits_days: 14 # Показывать данные за последние 14 дней
-          plugin_habits_charts: yes # Включить диаграммы
+          # plugin_habits: yes
+          # plugin_habits_from: 200 # Анализировать последние 200 событий
+          # plugin_habits_days: 14 # Показывать данные за последние 14 дней
+          # plugin_habits_charts: yes # Включить диаграммы
           
           # --- Плагин языков программирования ---
           plugin_languages: yes
@@ -36,4 +36,4 @@ jobs:
           plugin_languages_limit: 8
           
           # --- Плагин для отображения достижений ---
-          plugin_achievements: yes
+          # plugin_achievements: yes
