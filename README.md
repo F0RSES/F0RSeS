@@ -30,27 +30,53 @@ $ cat profile.json
 >   "status": "Bypassing DPI restrictions",
 >   "current_project": "Muffin"
 > }
-<details> <summary><b>🚀 <code>git log --oneline</code> (Нажми, чтобы развернуть)</b></summary> <br>
+```
 
-    🧁 Разработка Muffin — кроссплатформенного GUI для обхода блокировок (zapret + Cloudflare WARP).
-
-    🛡️ Изучение методов обхода DPI и сетевой безопасности.
-
-    💻 Написание чистого C++ кода и проектирование UI/UX.
-
-    🐧 Глубокая настройка Linux (Kali) и автоматизация.
-
+<details>
+  <summary><b>🚀 <code>git log --oneline</code> (Нажми, чтобы развернуть)</b></summary>
+  <br>
+  
+  *   🧁 Разработка **Muffin** — кроссплатформенного GUI для обхода блокировок (zapret + Cloudflare WARP).
+  *   🛡️ Изучение методов обхода DPI и сетевой безопасности.
+  *   💻 Написание чистого C++ кода и проектирование UI/UX.
+  *   🐧 Глубокая настройка Linux (Kali) и автоматизация.
 </details>
-🛠️ cat stack.txt
-<div align="center"> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="Compiling C++ modules... 0 errors, 0 warnings." /> <img src="https://img.shields.io/badge/Qt-41CD52?style=flat-square&logo=qt&logoColor=white" alt="Building GUI layout... QPainter initialized." /> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Automating the boring stuff with Python. Importing libraries..." /> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="Type checking... 'any' is not allowed here." /> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Initializing root shell... Access granted. (I use Arch/Kali btw)" /> <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" alt="chmod +x script.sh && ./script.sh" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="It works on my machine. Ship it." /> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="git commit -m 'fix: final release' && git push --force" /> </div>
-📊 system_monitor --stats
-<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=F0RSES&theme=radical&cache_seconds=1&hide_border=true&background=0D1117" alt="Parsing commit history... Longest streak detected." />
 
+<br>
 
+## 🛠️ `cat stack.txt`
 
-<img src="https://github-readme-stats.vercel.app/api?username=F0RSES&show_icons=true&theme=radical&hide_border=true&background=0D1117&include_all_commits=true&count_private=true" alt="Fetching global repository statistics... Data compiled successfully." />
+<div align="center">
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="Compiling C++ modules... 0 errors, 0 warnings." />
+  <img src="https://img.shields.io/badge/Qt-41CD52?style=flat-square&logo=qt&logoColor=white" alt="Building GUI layout... QPainter initialized." />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Automating the boring stuff with Python. Importing libraries..." />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="Type checking... 'any' is not allowed here." />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Initializing root shell... Access granted. (I use Arch/Kali btw)" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" alt="chmod +x script.sh && ./script.sh" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="It works on my machine. Ship it." />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="git commit -m 'fix: final release' && git push --force" />
+</div>
 
+<br>
 
+## 📊 `system_monitor --stats`
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=F0RSES&layout=compact&theme=radical&hide_border=true&background=0D1117" alt="Analyzing language distribution... C++ dominates." /></div>
-<div align="center"> <img src="https://komarev.com/ghpvc/?username=F0RSES&color=C084FC&style=flat-square&label=Nodes+Connected" alt="Tracking IP addresses... Just kidding. Profile views." /> </div> ```
+<div align="center">
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=F0RSES&theme=radical&cache_seconds=1&hide_border=true&background=0D1117" alt="Parsing commit history... Longest streak detected." />
+  
+  <br><br>
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=F0RSES&show_icons=true&theme=radical&hide_border=true&background=0D1117&include_all_commits=true&count_private=true" alt="Fetching global repository statistics... Data compiled successfully." />
+  
+  <br><br>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=F0RSES&layout=compact&theme=radical&hide_border=true&background=0D1117" alt="Analyzing language distribution... C++ dominates." />
+
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=F0RSES&color=C084FC&style=flat-square&label=Nodes+Connected" alt="Tracking IP addresses... Just kidding. Profile views." />
+</div>
