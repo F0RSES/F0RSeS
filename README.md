@@ -9,7 +9,7 @@
   <a href="https://t.me/@F0RSES">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Ping me on Telegram: Encrypted channel established." />
   </a>
-  <a href="https://reddit.com/user/ТВОЙ_РЕДДИТ">
+  <a href="https://reddit.com/user/Upstairs-Hold7166/">
     <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit: Accessing the subreddit..." />
   </a>
 
