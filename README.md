@@ -21,7 +21,7 @@
 
 ---
 
-## 🕵️‍♂️ `whoami`
+## `whoami`
 
 ```bash
 ┌──(F0RSES㉿kali)-[~]
